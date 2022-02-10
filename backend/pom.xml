@@ -18,7 +18,7 @@
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<hibernate.version>5.4.17.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<log4j.version>2.13.2</log4j.version>
 		<grpc.version>1.28.1</grpc.version>
 		<postgres.version>42.2.6</postgres.version>
